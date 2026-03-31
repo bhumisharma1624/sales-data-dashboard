@@ -1,4 +1,4 @@
-# sales-data-dashboard
+# Sales-data-dashboard
 1.Headline
 
 creative interactive dashboard to track and analyze for online sales data 
