@@ -13,3 +13,5 @@ Use different type of customized visualization like bar graph pie chart, donut c
 From youtube video of (Power Bi tutorial for Beginners | Power BI Dashboard Project in Hindi | Power Bi Course) from Rishabh Mishra
 
 5.Screenshot
+[Online Sales Dashboard Screenshot](https://github.com/bhumisharma1624/sales-data-dashboard/blob/main/Screenshot%202026-03-31%20114042.png)
+
