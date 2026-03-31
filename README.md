@@ -18,5 +18,5 @@ From youtube video of (Power Bi tutorial for Beginners | Power BI Dashboard Proj
 
 5.Screenshot
 
-[Online Sales Dashboard Screenshot](https://github.com/bhumisharma1624/sales-data-dashboard/blob/main/Screenshot%202026-03-31%20114042.png)
+[Dashboard preview](https://github.com/bhumisharma1624/sales-data-dashboard/blob/main/Screenshot%202026-03-31%20114042.png)
 
